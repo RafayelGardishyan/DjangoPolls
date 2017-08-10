@@ -1,1 +1,1 @@
-web: python manage.py runserver
+heroku python manage.py runserver
