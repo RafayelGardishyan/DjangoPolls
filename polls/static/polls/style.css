@@ -1,5 +1,10 @@
+.back{
+    margin-top: 20px;
+}
+
 *{
     font-family: 'Noto Sans', sans-serif;
+    margin: 0px;
 }
 
 ul{
@@ -51,10 +56,12 @@ a.voteagain{
 
 .choiceradio{
     font-size: 20px;
+    margin: 5px;
 }
 
 .title{
     font-size: 40px;
+    color: #4a7a38;
 }
 
 .footer{
