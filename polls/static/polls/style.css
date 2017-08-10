@@ -1,0 +1,67 @@
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li a {
+    color: green;
+    font-size: 25px;
+}
+
+li a:hover{
+    text-decoration: none;
+}
+
+.tabletitle{
+    font-size: 25px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 7px;
+}
+
+.tabletitle:last-of-type{
+    border-left:4px solid white;
+}
+
+.titleText{
+    font-weight: bold;
+}
+body {
+    background: white url("images/background.jpg");
+}
+
+input[type="submit"]{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
+
+a.voteagain{
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.choiceradio{
+    font-size: 20px;
+}
+
+.title{
+    font-size: 40px;
+}
+
+.footer{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
